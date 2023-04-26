@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package manejoclases03;
 
 public class Ejecutable01 {
@@ -16,7 +11,6 @@ public class Ejecutable01 {
         // hospital.nombre = "Isidro Ayora";
         String nHospital = "Isidro Ayora";
         hospital.establecerNombre(nHospital);
-        
         // hospital.numeroCamas = 100;
         hospital.establecerNumeroCamas(100);
         // hospital.presupuesto = 560340.43;
